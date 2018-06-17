@@ -62,7 +62,7 @@
   /* Upload Latitude/Longitude markers from test.csv file, show info from file in pop-up, and override initial center and zoom to fit all in map */
    var customLayer = L.geoJson(null, {
     onEachFeature: function(feature, layer) {
-      layer.bindPopup('<b>'+feature.properties.Title+'</b><p>Adres: '+feature.properties.Address+'</p><p>Tag: '+feature.properties.Source+'</p>');
+      layer.bindPopup('<b>'+feature.properties.Name+'</b><p>Adres: '+feature.properties.Found+'</p><p>Tag: '+feature.properties.Description+'</p>');
           
     }
    });

@@ -1,68 +1,69 @@
 Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
-"Klub Klimat Holandia,""De Burg 6, 1648 JT De Goorn"",52.6320181,4.9497553,""De Burg 6, 1648 JT De Goorn, Netherlands"",Partial Match,Google"
-"Cafe Bar ‘Tu jest Polska Spoko Loko’,Maandereind 12C Ede,52.0435065,5.6690572,""Maandereind 12C, 6711 AC Ede, Netherlands"",Match,Google"
-"Cafe bar Warszawa,Heezerweg 123 Eindhoven,51.4268093,5.4929212,""Heezerweg 123, 5614 HC Eindhoven, Netherlands"",Match,Google"
-"Polski Bar,Brouwersvaart 146 Haarlem,52.3824985,4.6275301,""Brouwersvaart 146, 2013 RE Haarlem, Netherlands"",Match,Google"
-"Fahrenheit,Fahrenheitstraat 22 Den Haag,52.0701085,4.2786418,""Fahrenheitstraat 22, 2561 EC Den Haag, Netherlands"",Match,Google"
-"The Shuffle,Gasthuisstraat 36 Horst,51.448382,6.0522833,""Gasthuisstraat 36, 5961 GB Horst, Netherlands"",Match,Google"
-"Luna,Dorpsstraat 39 5472 PH Loosbroek,51.6794854,5.5105492,""Dorpsstraat 39, 5472 PH Loosbroek, Netherlands"",Match,Google"
-"Teejater,""Havenstraat 43-45, 2671 GH Naaldwijk"",51.9948044,4.2078856,""Havenstraat 43, 2671 GH Naaldwijk, Netherlands"",Partial Match,Google"
-"Cafe Disco,Berghemseweg 33 Oss,51.7696137,5.5303308,""Berghemseweg 33, 5348 CA Oss, Netherlands"",Match,Google"
-"Bar Bocian,Ooievaarsteeg 1 Schiedam,51.9186895,4.3983815,""Ooievaarsteeg 1, 3111 NS Schiedam, Netherlands"",Match,Google"
-"Sami Swoi,Tuinstraat 59 5038 DB Tilburg,51.5574887,5.0840521,""Tuinstraat 59, 5038 DB Tilburg, Netherlands"",Match,Google"
-"Bar Lekker Belangrijk,Voorstraat 96 Utrecht,52.0952463,5.122773,""Voorstraat 96, 3512 AV Utrecht, Netherlands"",Match,Google"
-"Polski pub Diablica,Baarlosestraat 324 Venlo,51.354804,6.1258741,""Baarlosestraat 324, 5926 PN Venlo, Netherlands"",Match,Google"
-"Polska Dyskoteka Wok-Dance,Antwerpseweg 36 Rijsbergen,51.4975817,4.6837781,""Antwerpseweg 36, 4891 CP Rijsbergen, Netherlands"",Match,Google"
-"Dance Mission,Stationsstraat 21 Tilburg,51.5588909,5.0823186,""Stationsstraat 21, 5038 EC Tilburg, Netherlands"",Partial Match,Google"
-"Karolinka Poolse Delicatessen,Grotestraat 162 Waalwijk,51.6899929,5.0617755,""Grotestraat 162, 5141 HC Waalwijk, Netherlands"",Match,Google"
-"Janosik Poolse winkel,Grotestraat 127 Waalwijk,51.6897592,5.058581,""Grotestraat 127, 5141 JP Waalwijk, Netherlands"",Match,Google"
-"Warta Supermarkt,Stationsstraat 126 Waalwijk,51.6857744,5.0672864,""Stationsstraat 126, 5141 GH Waalwijk, Netherlands"",Match,Google"
-"Wisla Supermarkt,Korvelseweg 219A Tilburg,51.5505152,5.0711226,""Korvelseweg 219A, 5025 JG Tilburg, Netherlands"",Match,Google"
-"Zapolski Supermarkt,Trouwlaan 27 Tilburg,51.5516492,5.0783526,""Trouwlaan 27, 5021 WD Tilburg, Netherlands"",Match,Google"
-"Luzik Poolse Delicatessen,Enschotsestraat 135 Tilburg,51.5646739,5.0987743,""Enschotsestraat 135, 5014 DD Tilburg, Netherlands"",Match,Google"
-"Super Sam Tilburg Poolse Market,Bosscheweg 314 Tilburg,51.5619508,5.1053801,""Bosscheweg 314, 5013 AD Tilburg, Netherlands"",Match,Google"
-"Polska Piekarnia Bakkerij Z&B,Ceramstraat 2B Tilburg,51.5655971,5.1058913,""Ceramstraat 2B, 5013 BB Tilburg, Netherlands"",Match,Google"
-"Polskie delikatesy ""HiZ Mateusz"",Peperstraat 7 Kaatsheuvel,51.6609763,5.0328033,""Peperstraat 7, 5171 EC Kaatsheuvel, Netherlands"",Match,Google"
-"Maria Magdalenakerk / Grote Kerk,""Singelstraat 21, 4461HZ Goes"",51.5031386,3.8902146,""Singelstraat 21, 4461 Goes, Netherlands"",Match,Google"
-"St. Laurentiuskerk,""Ginnekenweg 333, 4835ND Breda"",51.5682215,4.7847079,""Ginnekenweg 333, 4835 ND Breda, Netherlands"",Match,Google"
-"Mariakerk,""De Schans 122, 5011EN Tilburg"",51.5876201,5.0916572,""De Schans 122, 5011 EN Tilburg, Netherlands"",Match,Google"
-"O.L.V. van Altijddurende Bijstand,""Wernhoutseweg 149, 4884AT Wernhout"",51.4531671,4.6419692,""Wernhoutseweg 149, 4884 AT Wernhout, Netherlands"",Match,Google"
-"St Gertrudis,""Dorpstraat 7, 4641HV Ossendrecht"",51.3945431,4.3235879,""Dorpsstraat 7, 4641 HV Ossendrecht, Netherlands"",Partial Match,Google"
-"H.Johannes de Doper,""Achterstraat 11, 4681AG Nieuw-Vossemeer"",51.5869737,4.2172289,""Achterstraat 11, 4681 AG Nieuw-Vossemeer, Netherlands"",Match,Google"
-"TP Zoetermeer,Ierlandlaan 45 2713 HH zoetermeer,52.0582722,4.4823231,""Ierlandlaan 45, 2713 HH Zoetermeer, Netherlands"",Partial Match,Google"
-"TP Amsterdam,Herikerbergweg 292-342 1101 CT Amsterdam-Zuidoost,52.3075498,4.9416642,""Herikerbergweg 292, 1101 CT Amsterdam, Netherlands"",Partial Match,Google"
-"TP Maastricht,Paul-Henri Spaaklaan 7-9 6229 EN Maastricht,50.8395629,5.7125315,""Paul-Henri Spaaklaan 7, 6229 EN Maastricht, Netherlands"",Partial Match,Google"
-"TP Tilburg,Spoorlaan 394 5038 CG Tilburg,51.5598017,5.0851759,""Spoorlaan 394, 5038 CG Tilburg, Netherlands"",Match,Google"
-"TP Utrecht,Papendorpseweg 97 3528 BJ Utrecht,52.0633143,5.0885952,""Papendorpseweg 97, 3528 BJ Utrecht, Netherlands"",Match,Google"
-"TP Zoetermeer,Orfeoschouw 70 2726 JH Zoetermeer,52.0650493,4.4937703,""Orfeoschouw 70, 2726 JH Zoetermeer, Netherlands"",Match,Google"
-"Bol,""Papendorpseweg 96, 3528 BJ Utrecht"",52.0658329,5.0893222,""Papendorpseweg 96, 3528 BJ Utrecht, Netherlands"",Match,Google"
-"IM CFS Benelux,""Energieweg 2, 5145 NW Waalwijk"",51.6938421,5.065812,""Energieweg 2, 5145 NW Waalwijk, Netherlands"",Match,Google"
-"IM CFS Benelux,""Veerweg 16, 5145 NS Waalwijk"",51.7040386,5.041357,""Veerweg 16, 5145 NS Waalwijk, Netherlands"",Match,Google"
-"IM CFS Benelux,""Van Harenstraat 3, 5145 RH Waalwijk"",51.7009423,5.0374498,""Van Harenstraat 3, 5145 Waalwijk, Netherlands"",Partial Match,Google"
-"BFC,""Pakketweg 2, Waalwijk"",51.7018817,5.0679745,""Pakketweg, 5145 Waalwijk, Netherlands"",Partial Match,Google"
-"IM CFS Benelux,""Gesworenhoekseweg 11, 5047 TM Tilburg"",51.5973107,5.0019684,""Gesworenhoekseweg 11, 5047 TM Tilburg, Netherlands"",Match,Google"
-"""Polenhotel"",""Altenaweg 18, 5145PC, Waalwijk"",51.6932104,5.0649053,""Altenaweg 18, 5145 PC Waalwijk, Netherlands"",Match,Google"
-"Brasserie De Steiger,""Ptolemaeuslaan 53, 3528 BR Utrecht"",52.0681924,5.0798947,""Ptolemaeuslaan 53, 3528 BR Utrecht, Netherlands"",Match,Google"
-"Vakantiepark Droomgaard,""Van Haestrechtstraat 24, 5171 RC Kaatsheuvel"",51.660826,5.0624536,""Van Haestrechtstraat 24, 5171 RC Kaatsheuvel, Netherlands"",Match,Google"
-"PNL BFC,""Pakketweg 2, Waalwijk"",51.7018817,5.0679745,""Pakketweg, 5145 Waalwijk, Netherlands"",Partial Match,Google"
-"NLI Amersfoort,""Windturbine 8, 3815 KP, Amersfoort"",52.165426,5.423745,""De Windturbine 8, 3815 Amersfoort, Netherlands"",Partial Match,Google"
-"Extra@Home Amersfoort,""Basicweg 10 -12, 3821 BR, Amersfoort"",52.1739786,5.4226833,""Basicweg 10, 3821 BR Amersfoort, Netherlands"",Partial Match,Google"
-"NLI Sittard,""Holtum Noordweg 107, 6121 RE, Born"",51.0690266,5.8186017,""Holtum-Noordweg 107, 6121 RE Born, Netherlands"",Match,Google"
-"NLI Breda,""Steltbeemd 1, 4824 AP, Breda"",51.6031392,4.7589502,""Steltbeemd 1, 4825 AJ Breda, Netherlands"",Partial Match,Google"
-"NLI Den Bosch,""Ketelaarskampweg 4, 5222 AL, Den Bosch"",51.7036683,5.2740367,""Ketelaarskampweg 4, 5222 AL 's-Hertogenbosch, Netherlands"",Match,Google"
-"NLI Den Hoorn,""Heernesse 10, 2635 DK, Den Hoorn"",52.0039625,4.3191282,""Heernesse, 2635 Den Hoorn, Netherlands"",Partial Match,Google"
-"NLI Elst,""Nijverheidsweg 2d, 6662 NG, Elst"",51.9140541,5.8610373,""Nijverheidsweg 2a, 6662 NE Elst, Netherlands"",Partial Match,Google"
-"NLI Goes,""Columbusweg 62, 4462 HB, Goes"",51.4845991,3.8897151,""Columbusweg 62, 4462 HB Goes, Netherlands"",Partial Match,Google"
-"NLI Halfweg,""Linieweg 10, 1165 AA, Amsterdam"",52.382463,4.695344,""Linieweg, 2065 Haarlemmerliede, Netherlands"",Partial Match,Google"
-"NLI Hengelo,""Zuidelijke Havenweg 1, 7554 RR, Hengelo"",52.2458448,6.7810025,""Zuidelijke Havenweg 1, 7554 Hengelo, Netherlands"",Partial Match,Google"
-"PNL E-commerce,""Kaagschip 14, 3991 CS, Houten"",52.019104,5.1576333,""Kaagschip 14, 3991 CS Houten, Netherlands"",Match,Google"
-"NLI Kolham,""W.J. Ockelslaan 2, 9615 TP, Kolham"",53.170559,6.7462058,""W.J. Ockelslaan, 9615 Kolham, Netherlands"",Partial Match,Google"
-"NLI Leeuwarden,""Brailleweg 3, 8912 BL, Leeuwarden"",53.183449,5.752369,""3, Brailleweg, 8912 BL Leeuwarden, Netherlands"",Match,Google"
-"NLI Nieuwegein,""Mobilisatiedok 4, 3439 JG Nieuwegein"",52.0211199,5.1182754,""Mobilisatiedok 4, 3439 JG Nieuwegein, Netherlands"",Match,Google"
-"NLI Opmeer,""De Veken 332, 1716 KJ, Opmeer"",52.7126752,4.961739,""De Veken 332, 1716 Opmeer, Netherlands"",Partial Match,Google"
-"NLI Ridderkerk,""Schaapherderweg 21, 2988 CK, Ridderkerk"",51.8764629,4.5616238,""Schaapherderweg 21, 2988 CK Ridderkerk, Netherlands"",Match,Google"
-"NLI Sassenheim,""Einsteinpark 2, 2171 TX Sassenheim"",52.2136936,4.4962802,""Einsteinpark 2, 2171 TX Sassenheim, Netherlands"",Match,Google"
-"NLI Eindhoven,""Ekkersrijt 3402, 5692 CK, Son en Breugel"",51.5016102,5.4811692,""Ekkersrijt 3402, 5692 CJ Son, Netherlands"",Partial Match,Google"
-"NLI Utrecht,""Sophialaan 7a, 3542 AR, Utrecht"",52.1167642,5.0671703,""Sophialaan 7A, 3542 AR Utrecht, Netherlands"",Match,Google"
-"NLI Waddinxveen,""Overslagweg 2, 2742 RJ, Waddinxveen"",52.0164203,4.640498,""Overslagweg 2, 2742 Waddinxveen, Netherlands"",Partial Match,Google"
-"NLI Zwolle,""Nipkowstraat 1, 8013 RJ, Zwolle"",52.4935421,6.1367427,""Nipkowstraat 1, 8013 RJ Zwolle, Netherlands"",PostNL,9 tot 2"
+Polish Bar Sami Swoi,Van Woustraat 232 HS Amsterdam,52.3497681,4.9036223,"Van Woustraat 232, 1073 NC Amsterdam, Netherlands",Horeca,Open van 9 tot 2
+Klub Klimat Holandia,"De Burg 6, 1648 JT De Goorn",52.6320181,4.9497553,"De Burg 6, 1648 JT De Goorn, Netherlands",Partial Match,Google
+Cafe Bar ‘Tu jest Polska Spoko Loko’,Maandereind 12C Ede,52.0435065,5.6690572,"Maandereind 12C, 6711 AC Ede, Netherlands",Match,Google
+Cafe bar Warszawa,Heezerweg 123 Eindhoven,51.4268093,5.4929212,"Heezerweg 123, 5614 HC Eindhoven, Netherlands",Match,Google
+Polski Bar,Brouwersvaart 146 Haarlem,52.3824985,4.6275301,"Brouwersvaart 146, 2013 RE Haarlem, Netherlands",Match,Google
+Fahrenheit,Fahrenheitstraat 22 Den Haag,52.0701085,4.2786418,"Fahrenheitstraat 22, 2561 EC Den Haag, Netherlands",Match,Google
+The Shuffle,Gasthuisstraat 36 Horst,51.448382,6.0522833,"Gasthuisstraat 36, 5961 GB Horst, Netherlands",Match,Google
+Luna,Dorpsstraat 39 5472 PH Loosbroek,51.6794854,5.5105492,"Dorpsstraat 39, 5472 PH Loosbroek, Netherlands",Match,Google
+Teejater,"Havenstraat 43-45, 2671 GH Naaldwijk",51.9948044,4.2078856,"Havenstraat 43, 2671 GH Naaldwijk, Netherlands",Partial Match,Google
+Cafe Disco,Berghemseweg 33 Oss,51.7696137,5.5303308,"Berghemseweg 33, 5348 CA Oss, Netherlands",Match,Google
+Bar Bocian,Ooievaarsteeg 1 Schiedam,51.9186895,4.3983815,"Ooievaarsteeg 1, 3111 NS Schiedam, Netherlands",Match,Google
+Sami Swoi,Tuinstraat 59 5038 DB Tilburg,51.5574887,5.0840521,"Tuinstraat 59, 5038 DB Tilburg, Netherlands",Match,Google
+Bar Lekker Belangrijk,Voorstraat 96 Utrecht,52.0952463,5.122773,"Voorstraat 96, 3512 AV Utrecht, Netherlands",Match,Google
+Polski pub Diablica,Baarlosestraat 324 Venlo,51.354804,6.1258741,"Baarlosestraat 324, 5926 PN Venlo, Netherlands",Match,Google
+Polska Dyskoteka Wok-Dance,Antwerpseweg 36 Rijsbergen,51.4975817,4.6837781,"Antwerpseweg 36, 4891 CP Rijsbergen, Netherlands",Match,Google
+Dance Mission,Stationsstraat 21 Tilburg,51.5588909,5.0823186,"Stationsstraat 21, 5038 EC Tilburg, Netherlands",Partial Match,Google
+Karolinka Poolse Delicatessen,Grotestraat 162 Waalwijk,51.6899929,5.0617755,"Grotestraat 162, 5141 HC Waalwijk, Netherlands",Match,Google
+Janosik Poolse winkel,Grotestraat 127 Waalwijk,51.6897592,5.058581,"Grotestraat 127, 5141 JP Waalwijk, Netherlands",Match,Google
+Warta Supermarkt,Stationsstraat 126 Waalwijk,51.6857744,5.0672864,"Stationsstraat 126, 5141 GH Waalwijk, Netherlands",Match,Google
+Wisla Supermarkt,Korvelseweg 219A Tilburg,51.5505152,5.0711226,"Korvelseweg 219A, 5025 JG Tilburg, Netherlands",Match,Google
+Zapolski Supermarkt,Trouwlaan 27 Tilburg,51.5516492,5.0783526,"Trouwlaan 27, 5021 WD Tilburg, Netherlands",Match,Google
+Luzik Poolse Delicatessen,Enschotsestraat 135 Tilburg,51.5646739,5.0987743,"Enschotsestraat 135, 5014 DD Tilburg, Netherlands",Match,Google
+Super Sam Tilburg Poolse Market,Bosscheweg 314 Tilburg,51.5619508,5.1053801,"Bosscheweg 314, 5013 AD Tilburg, Netherlands",Match,Google
+Polska Piekarnia Bakkerij Z&B,Ceramstraat 2B Tilburg,51.5655971,5.1058913,"Ceramstraat 2B, 5013 BB Tilburg, Netherlands",Match,Google
+"Polskie delikatesy ""HiZ Mateusz""",Peperstraat 7 Kaatsheuvel,51.6609763,5.0328033,"Peperstraat 7, 5171 EC Kaatsheuvel, Netherlands",Match,Google
+Maria Magdalenakerk / Grote Kerk,"Singelstraat 21, 4461HZ Goes",51.5031386,3.8902146,"Singelstraat 21, 4461 Goes, Netherlands",Match,Google
+St. Laurentiuskerk,"Ginnekenweg 333, 4835ND Breda",51.5682215,4.7847079,"Ginnekenweg 333, 4835 ND Breda, Netherlands",Match,Google
+Mariakerk,"De Schans 122, 5011EN Tilburg",51.5876201,5.0916572,"De Schans 122, 5011 EN Tilburg, Netherlands",Match,Google
+O.L.V. van Altijddurende Bijstand,"Wernhoutseweg 149, 4884AT Wernhout",51.4531671,4.6419692,"Wernhoutseweg 149, 4884 AT Wernhout, Netherlands",Match,Google
+St Gertrudis,"Dorpstraat 7, 4641HV Ossendrecht",51.3945431,4.3235879,"Dorpsstraat 7, 4641 HV Ossendrecht, Netherlands",Partial Match,Google
+H.Johannes de Doper,"Achterstraat 11, 4681AG Nieuw-Vossemeer",51.5869737,4.2172289,"Achterstraat 11, 4681 AG Nieuw-Vossemeer, Netherlands",Match,Google
+TP Zoetermeer,Ierlandlaan 45 2713 HH zoetermeer,52.0582722,4.4823231,"Ierlandlaan 45, 2713 HH Zoetermeer, Netherlands",Partial Match,Google
+TP Amsterdam,Herikerbergweg 292-342 1101 CT Amsterdam-Zuidoost,52.3075498,4.9416642,"Herikerbergweg 292, 1101 CT Amsterdam, Netherlands",Partial Match,Google
+TP Maastricht,Paul-Henri Spaaklaan 7-9 6229 EN Maastricht,50.8395629,5.7125315,"Paul-Henri Spaaklaan 7, 6229 EN Maastricht, Netherlands",Partial Match,Google
+TP Tilburg,Spoorlaan 394 5038 CG Tilburg,51.5598017,5.0851759,"Spoorlaan 394, 5038 CG Tilburg, Netherlands",Match,Google
+TP Utrecht,Papendorpseweg 97 3528 BJ Utrecht,52.0633143,5.0885952,"Papendorpseweg 97, 3528 BJ Utrecht, Netherlands",Match,Google
+TP Zoetermeer,Orfeoschouw 70 2726 JH Zoetermeer,52.0650493,4.4937703,"Orfeoschouw 70, 2726 JH Zoetermeer, Netherlands",Match,Google
+Bol,"Papendorpseweg 96, 3528 BJ Utrecht",52.0658329,5.0893222,"Papendorpseweg 96, 3528 BJ Utrecht, Netherlands",Match,Google
+IM CFS Benelux,"Energieweg 2, 5145 NW Waalwijk",51.6938421,5.065812,"Energieweg 2, 5145 NW Waalwijk, Netherlands",Match,Google
+IM CFS Benelux,"Veerweg 16, 5145 NS Waalwijk",51.7040386,5.041357,"Veerweg 16, 5145 NS Waalwijk, Netherlands",Match,Google
+IM CFS Benelux,"Van Harenstraat 3, 5145 RH Waalwijk",51.7009423,5.0374498,"Van Harenstraat 3, 5145 Waalwijk, Netherlands",Partial Match,Google
+BFC,"Pakketweg 2, Waalwijk",51.7018817,5.0679745,"Pakketweg, 5145 Waalwijk, Netherlands",Partial Match,Google
+IM CFS Benelux,"Gesworenhoekseweg 11, 5047 TM Tilburg",51.5973107,5.0019684,"Gesworenhoekseweg 11, 5047 TM Tilburg, Netherlands",Match,Google
+"""Polenhotel""","Altenaweg 18, 5145PC, Waalwijk",51.6932104,5.0649053,"Altenaweg 18, 5145 PC Waalwijk, Netherlands",Match,Google
+Brasserie De Steiger,"Ptolemaeuslaan 53, 3528 BR Utrecht",52.0681924,5.0798947,"Ptolemaeuslaan 53, 3528 BR Utrecht, Netherlands",Match,Google
+Vakantiepark Droomgaard,"Van Haestrechtstraat 24, 5171 RC Kaatsheuvel",51.660826,5.0624536,"Van Haestrechtstraat 24, 5171 RC Kaatsheuvel, Netherlands",Match,Google
+PNL BFC,"Pakketweg 2, Waalwijk",51.7018817,5.0679745,"Pakketweg, 5145 Waalwijk, Netherlands",Partial Match,Google
+NLI Amersfoort,"Windturbine 8, 3815 KP, Amersfoort",52.165426,5.423745,"De Windturbine 8, 3815 Amersfoort, Netherlands",Partial Match,Google
+Extra@Home Amersfoort,"Basicweg 10 -12, 3821 BR, Amersfoort",52.1739786,5.4226833,"Basicweg 10, 3821 BR Amersfoort, Netherlands",Partial Match,Google
+NLI Sittard,"Holtum Noordweg 107, 6121 RE, Born",51.0690266,5.8186017,"Holtum-Noordweg 107, 6121 RE Born, Netherlands",Match,Google
+NLI Breda,"Steltbeemd 1, 4824 AP, Breda",51.6031392,4.7589502,"Steltbeemd 1, 4825 AJ Breda, Netherlands",Partial Match,Google
+NLI Den Bosch,"Ketelaarskampweg 4, 5222 AL, Den Bosch",51.7036683,5.2740367,"Ketelaarskampweg 4, 5222 AL 's-Hertogenbosch, Netherlands",Match,Google
+NLI Den Hoorn,"Heernesse 10, 2635 DK, Den Hoorn",52.0039625,4.3191282,"Heernesse, 2635 Den Hoorn, Netherlands",Partial Match,Google
+NLI Elst,"Nijverheidsweg 2d, 6662 NG, Elst",51.9140541,5.8610373,"Nijverheidsweg 2a, 6662 NE Elst, Netherlands",Partial Match,Google
+NLI Goes,"Columbusweg 62, 4462 HB, Goes",51.4845991,3.8897151,"Columbusweg 62, 4462 HB Goes, Netherlands",Partial Match,Google
+NLI Halfweg,"Linieweg 10, 1165 AA, Amsterdam",52.382463,4.695344,"Linieweg, 2065 Haarlemmerliede, Netherlands",Partial Match,Google
+NLI Hengelo,"Zuidelijke Havenweg 1, 7554 RR, Hengelo",52.2458448,6.7810025,"Zuidelijke Havenweg 1, 7554 Hengelo, Netherlands",Partial Match,Google
+PNL E-commerce,"Kaagschip 14, 3991 CS, Houten",52.019104,5.1576333,"Kaagschip 14, 3991 CS Houten, Netherlands",Match,Google
+NLI Kolham,"W.J. Ockelslaan 2, 9615 TP, Kolham",53.170559,6.7462058,"W.J. Ockelslaan, 9615 Kolham, Netherlands",Partial Match,Google
+NLI Leeuwarden,"Brailleweg 3, 8912 BL, Leeuwarden",53.183449,5.752369,"3, Brailleweg, 8912 BL Leeuwarden, Netherlands",Match,Google
+NLI Nieuwegein,"Mobilisatiedok 4, 3439 JG Nieuwegein",52.0211199,5.1182754,"Mobilisatiedok 4, 3439 JG Nieuwegein, Netherlands",Match,Google
+NLI Opmeer,"De Veken 332, 1716 KJ, Opmeer",52.7126752,4.961739,"De Veken 332, 1716 Opmeer, Netherlands",Partial Match,Google
+NLI Ridderkerk,"Schaapherderweg 21, 2988 CK, Ridderkerk",51.8764629,4.5616238,"Schaapherderweg 21, 2988 CK Ridderkerk, Netherlands",Match,Google
+NLI Sassenheim,"Einsteinpark 2, 2171 TX Sassenheim",52.2136936,4.4962802,"Einsteinpark 2, 2171 TX Sassenheim, Netherlands",Match,Google
+NLI Eindhoven,"Ekkersrijt 3402, 5692 CK, Son en Breugel",51.5016102,5.4811692,"Ekkersrijt 3402, 5692 CJ Son, Netherlands",Partial Match,Google
+NLI Utrecht,"Sophialaan 7a, 3542 AR, Utrecht",52.1167642,5.0671703,"Sophialaan 7A, 3542 AR Utrecht, Netherlands",Match,Google
+NLI Waddinxveen,"Overslagweg 2, 2742 RJ, Waddinxveen",52.0164203,4.640498,"Overslagweg 2, 2742 Waddinxveen, Netherlands",Partial Match,Google
+NLI Zwolle,"Nipkowstraat 1, 8013 RJ, Zwolle",52.4935421,6.1367427,"Nipkowstraat 1, 8013 RJ Zwolle, Netherlands",Match,Google

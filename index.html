@@ -4,8 +4,6 @@
   <title>leaflet-map-simple</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
-
-  <!-- Load Leaflet: instructions at http://leafletjs.com/download.html -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.1.0/dist/leaflet.css"
   integrity="sha384-Zh+y1U8o6/7ni8Mp8szvUfZjGeKKS10CGH3IlD6L1X+XwzYgQ1llOjw/Wslc0cma"
   crossorigin="anonymous">
@@ -61,18 +59,18 @@
   // L.marker([41.77, -72.69]).addTo(map) // EDIT latitude, longitude to re-position marker
   // .bindPopup("POP UP TEKST"); // EDIT pop-up text message
 
-  /* Upload Latitude/Longitude markers from data.csv file, show info from file in pop-up, and override initial center and zoom to fit all in map */
+  /* Upload Latitude/Longitude markers from test.csv file, show info from file in pop-up, and override initial center and zoom to fit all in map */
    var customLayer = L.geoJson(null, {
     onEachFeature: function(feature, layer) {
       layer.bindPopup('<b>'+feature.properties.Title+'</b><p>Adres: '+feature.properties.Address+'</p><p>Tag: '+feature.properties.Source+'</p>');
           
     }
    });
-   var runLayer = omnivore.csv('data.csv', null, customLayer)
+   var runLayer = omnivore.csv('test.csv', null, customLayer)
    .on('ready', function() {
     map.fitBounds(runLayer.getBounds());
    }).addTo(map);
-   //controlLayers.addOverlay(customLayer, 'Markers from data.csv');
+   //controlLayers.addOverlay(customLayer, 'Markers from test.csv');
 
   </script>
 </body>

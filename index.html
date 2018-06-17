@@ -60,14 +60,11 @@
   // L.marker([41.77, -72.69]).addTo(map) // EDIT latitude, longitude to re-position marker
   // .bindPopup("POP UP TEKST"); // EDIT pop-up text message
 
-  /* Upload Latitude/Longitude markers from data.csv file, show Title in pop-up, and override initial center and zoom to fit all in map */
+  /* Upload Latitude/Longitude markers from data.csv file, show info from file in pop-up, and override initial center and zoom to fit all in map */
    var customLayer = L.geoJson(null, {
     onEachFeature: function(feature, layer) {
-      layer.bindPopup('<h1>'+feature.properties.Title+'</h1><p>Adres: '+feature.properties.Address+'</p>'); 
-      
-      //('<pre>'+JSON.stringify(feature.properties,null,' ').replace(/[\{\}"]/g,'')+'</pre>');
-      
-      //(feature.properties.Title);
+      layer.bindPopup('<h2>'+feature.properties.Title+'</h2><p>Adres: '+feature.properties.Address+'</p>'); 
+          
     }
    });
    var runLayer = omnivore.csv('data.csv', null, customLayer)
